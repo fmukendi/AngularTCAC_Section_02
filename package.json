@@ -1,0 +1,29 @@
+
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "Typescript fundamental",
+    "main": "",
+    "dependencies": {
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "npm install"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/fmukendi/AngularTCAC_Section_02.git"
+    },
+    "keywords": [
+      "acciocode",
+      "angularjs",
+      "javascript"
+    ],
+    "author": "Franck Mukendi",
+    "license": "ISC",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "https://github.com/fmukendi/AngularTCAC_Section_02.git"
+  }
